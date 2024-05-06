@@ -1,0 +1,46 @@
+2024-04-23 20:34:34.483 +01:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2024-04-23 20:34:35.090 +01:00 [INF] Now listening on: https://localhost:7085
+2024-04-23 20:34:35.093 +01:00 [INF] Now listening on: http://localhost:5203
+2024-04-23 20:34:35.096 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-04-23 20:34:35.098 +01:00 [INF] Hosting environment: Development
+2024-04-23 20:34:35.099 +01:00 [INF] Content root path: C:\Users\hasan\source\repos\Task Manager Backend\Task Manager Backend
+2024-04-23 20:34:37.734 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7085/swagger/index.html - null null
+2024-04-23 20:34:38.154 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7085/swagger/index.html - 200 null text/html;charset=utf-8 424.9012ms
+2024-04-23 20:34:38.306 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7085/_framework/aspnetcore-browser-refresh.js - null null
+2024-04-23 20:34:38.306 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7085/_vs/browserLink - null null
+2024-04-23 20:34:38.331 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7085/_framework/aspnetcore-browser-refresh.js - 200 13776 application/javascript; charset=utf-8 25.8827ms
+2024-04-23 20:34:38.403 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7085/_vs/browserLink - 200 null text/javascript; charset=UTF-8 97.9407ms
+2024-04-23 20:34:38.547 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7085/swagger/v1/swagger.json - null null
+2024-04-23 20:34:38.712 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7085/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 165.0931ms
+2024-04-23 21:51:16.033 +01:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2024-04-23 21:51:16.618 +01:00 [INF] Now listening on: https://localhost:7085
+2024-04-23 21:51:16.620 +01:00 [INF] Now listening on: http://localhost:5203
+2024-04-23 21:51:16.622 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-04-23 21:51:16.623 +01:00 [INF] Hosting environment: Development
+2024-04-23 21:51:16.624 +01:00 [INF] Content root path: C:\Users\hasan\source\repos\Task Manager Backend\Task Manager Backend
+2024-04-23 21:51:17.354 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7085/swagger/index.html - null null
+2024-04-23 21:51:17.640 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7085/swagger/index.html - 200 null text/html;charset=utf-8 292.3213ms
+2024-04-23 21:51:17.811 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7085/_vs/browserLink - null null
+2024-04-23 21:51:17.821 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7085/_framework/aspnetcore-browser-refresh.js - null null
+2024-04-23 21:51:17.846 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7085/_framework/aspnetcore-browser-refresh.js - 200 13776 application/javascript; charset=utf-8 24.4967ms
+2024-04-23 21:51:17.879 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7085/_vs/browserLink - 200 null text/javascript; charset=UTF-8 68.1732ms
+2024-04-23 21:51:17.970 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7085/swagger/v1/swagger.json - null null
+2024-04-23 21:51:18.117 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7085/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 147.6312ms
+2024-04-23 21:51:25.643 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7085/tasks - null null
+2024-04-23 21:51:25.653 +01:00 [INF] Executing endpoint 'HTTP: GET /tasks'
+2024-04-23 21:51:26.319 +01:00 [INF] Executed endpoint 'HTTP: GET /tasks'
+2024-04-23 21:51:26.323 +01:00 [INF] HTTP GET /tasks responded 200 in 671.4575 ms
+2024-04-23 21:51:26.329 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7085/tasks - 200 null application/json; charset=utf-8 686.3949ms
+2024-04-23 21:52:19.688 +01:00 [INF] Request starting HTTP/2 POST https://localhost:7085/tasks/3 - application/json 131
+2024-04-23 21:52:19.704 +01:00 [INF] Executing endpoint 'HTTP: POST /tasks/{id}'
+2024-04-23 21:52:19.867 +01:00 [INF] Saved 1 entities to in-memory store.
+2024-04-23 21:52:19.874 +01:00 [INF] Setting HTTP status code 201.
+2024-04-23 21:52:19.876 +01:00 [INF] Writing value of type 'Task' as Json.
+2024-04-23 21:52:19.882 +01:00 [INF] Executed endpoint 'HTTP: POST /tasks/{id}'
+2024-04-23 21:52:19.883 +01:00 [INF] HTTP POST /tasks/3 responded 201 in 179.0803 ms
+2024-04-23 21:52:19.886 +01:00 [INF] Request finished HTTP/2 POST https://localhost:7085/tasks/3 - 201 null application/json; charset=utf-8 198.4967ms
+2024-04-23 21:52:28.478 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7085/tasks - null null
+2024-04-23 21:52:28.482 +01:00 [INF] Executing endpoint 'HTTP: GET /tasks'
+2024-04-23 21:52:28.501 +01:00 [INF] Executed endpoint 'HTTP: GET /tasks'
+2024-04-23 21:52:28.503 +01:00 [INF] HTTP GET /tasks responded 200 in 20.3779 ms
+2024-04-23 21:52:28.506 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7085/tasks - 200 null application/json; charset=utf-8 28.1802ms

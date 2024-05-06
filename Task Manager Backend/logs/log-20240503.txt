@@ -1,0 +1,32 @@
+2024-05-03 12:42:03.772 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7085/tasks - null null
+2024-05-03 12:42:03.930 +01:00 [INF] CORS policy execution successful.
+2024-05-03 12:42:03.947 +01:00 [INF] Executing endpoint 'HTTP: GET /tasks'
+2024-05-03 12:42:04.024 +01:00 [INF] Executed endpoint 'HTTP: GET /tasks'
+2024-05-03 12:42:04.030 +01:00 [INF] HTTP GET /tasks responded 200 in 100.0778 ms
+2024-05-03 12:42:04.032 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7085/tasks - 200 null application/json; charset=utf-8 262.0758ms
+2024-05-03 23:03:27.524 +01:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2024-05-03 23:03:28.095 +01:00 [INF] Now listening on: https://localhost:7085
+2024-05-03 23:03:28.098 +01:00 [INF] Now listening on: http://localhost:5203
+2024-05-03 23:03:28.101 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-03 23:03:28.102 +01:00 [INF] Hosting environment: Development
+2024-05-03 23:03:28.103 +01:00 [INF] Content root path: C:\Users\hasan\source\repos\Task Manager Backend\Task Manager Backend
+2024-05-03 23:03:28.850 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7085/swagger/index.html - null null
+2024-05-03 23:03:29.140 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7085/swagger/index.html - 200 null text/html;charset=utf-8 295.1813ms
+2024-05-03 23:03:29.174 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7085/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-03 23:03:29.183 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7085/_framework/aspnetcore-browser-refresh.js - 200 13776 application/javascript; charset=utf-8 9.2039ms
+2024-05-03 23:03:29.205 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7085/_vs/browserLink - null null
+2024-05-03 23:03:29.257 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7085/_vs/browserLink - 200 null text/javascript; charset=UTF-8 52.3631ms
+2024-05-03 23:03:29.404 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7085/swagger/v1/swagger.json - null null
+2024-05-03 23:03:29.533 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7085/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 128.607ms
+2024-05-03 23:04:40.903 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7085/tasks - null null
+2024-05-03 23:04:40.920 +01:00 [INF] CORS policy execution successful.
+2024-05-03 23:04:40.932 +01:00 [INF] Executing endpoint 'HTTP: GET /tasks'
+2024-05-03 23:04:41.862 +01:00 [INF] Executed endpoint 'HTTP: GET /tasks'
+2024-05-03 23:04:41.866 +01:00 [INF] HTTP GET /tasks responded 200 in 948.1958 ms
+2024-05-03 23:04:41.872 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7085/tasks - 200 null application/json; charset=utf-8 970.1538ms
+2024-05-03 23:05:15.107 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7085/tasks - null null
+2024-05-03 23:05:15.117 +01:00 [INF] CORS policy execution successful.
+2024-05-03 23:05:15.119 +01:00 [INF] Executing endpoint 'HTTP: GET /tasks'
+2024-05-03 23:05:15.156 +01:00 [INF] Executed endpoint 'HTTP: GET /tasks'
+2024-05-03 23:05:15.158 +01:00 [INF] HTTP GET /tasks responded 200 in 41.4369 ms
+2024-05-03 23:05:15.160 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7085/tasks - 200 null application/json; charset=utf-8 54.3102ms

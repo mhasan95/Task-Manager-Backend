@@ -1,0 +1,126 @@
+2024-04-30 00:00:02.941 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7085/tasks - null null
+2024-04-30 00:00:02.969 +01:00 [INF] CORS policy execution successful.
+2024-04-30 00:00:02.971 +01:00 [INF] Executing endpoint 'HTTP: GET /tasks'
+2024-04-30 00:00:02.974 +01:00 [INF] Executed endpoint 'HTTP: GET /tasks'
+2024-04-30 00:00:02.975 +01:00 [INF] HTTP GET /tasks responded 200 in 6.1453 ms
+2024-04-30 00:00:02.979 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7085/tasks - 200 null application/json; charset=utf-8 37.5084ms
+2024-04-30 00:00:35.538 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7085/tasks - null null
+2024-04-30 00:00:35.548 +01:00 [INF] CORS policy execution successful.
+2024-04-30 00:00:35.549 +01:00 [INF] Executing endpoint 'HTTP: GET /tasks'
+2024-04-30 00:00:35.551 +01:00 [INF] Executed endpoint 'HTTP: GET /tasks'
+2024-04-30 00:00:35.553 +01:00 [INF] HTTP GET /tasks responded 200 in 4.6143 ms
+2024-04-30 00:00:35.556 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7085/tasks - 200 null application/json; charset=utf-8 17.7597ms
+2024-04-30 00:07:24.837 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7085/tasks - null null
+2024-04-30 00:07:24.847 +01:00 [INF] CORS policy execution successful.
+2024-04-30 00:07:24.848 +01:00 [INF] Executing endpoint 'HTTP: GET /tasks'
+2024-04-30 00:07:24.851 +01:00 [INF] Executed endpoint 'HTTP: GET /tasks'
+2024-04-30 00:07:24.852 +01:00 [INF] HTTP GET /tasks responded 200 in 5.3632 ms
+2024-04-30 00:07:24.859 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7085/tasks - 200 null application/json; charset=utf-8 19.8798ms
+2024-04-30 00:08:15.294 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7085/tasks - null null
+2024-04-30 00:08:15.311 +01:00 [INF] CORS policy execution successful.
+2024-04-30 00:08:15.315 +01:00 [INF] Executing endpoint 'HTTP: GET /tasks'
+2024-04-30 00:08:15.318 +01:00 [INF] Executed endpoint 'HTTP: GET /tasks'
+2024-04-30 00:08:15.319 +01:00 [INF] HTTP GET /tasks responded 200 in 9.5189 ms
+2024-04-30 00:08:15.322 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7085/tasks - 200 null application/json; charset=utf-8 27.721ms
+2024-04-30 00:16:39.475 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7085/tasks - null null
+2024-04-30 00:16:39.487 +01:00 [INF] CORS policy execution successful.
+2024-04-30 00:16:39.488 +01:00 [INF] Executing endpoint 'HTTP: GET /tasks'
+2024-04-30 00:16:39.490 +01:00 [INF] Executed endpoint 'HTTP: GET /tasks'
+2024-04-30 00:16:39.492 +01:00 [INF] HTTP GET /tasks responded 200 in 4.9469 ms
+2024-04-30 00:16:39.502 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7085/tasks - 200 null application/json; charset=utf-8 27.5926ms
+2024-04-30 00:18:06.161 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7085/tasks - null null
+2024-04-30 00:18:06.171 +01:00 [INF] CORS policy execution successful.
+2024-04-30 00:18:06.172 +01:00 [INF] Executing endpoint 'HTTP: GET /tasks'
+2024-04-30 00:18:06.174 +01:00 [INF] Executed endpoint 'HTTP: GET /tasks'
+2024-04-30 00:18:06.177 +01:00 [INF] HTTP GET /tasks responded 200 in 6.0068 ms
+2024-04-30 00:18:06.185 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7085/tasks - 200 null application/json; charset=utf-8 24.0544ms
+2024-04-30 00:22:15.338 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7085/tasks - null null
+2024-04-30 00:22:15.347 +01:00 [INF] CORS policy execution successful.
+2024-04-30 00:22:15.349 +01:00 [INF] Executing endpoint 'HTTP: GET /tasks'
+2024-04-30 00:22:15.351 +01:00 [INF] Executed endpoint 'HTTP: GET /tasks'
+2024-04-30 00:22:15.356 +01:00 [INF] HTTP GET /tasks responded 200 in 8.4963 ms
+2024-04-30 00:22:15.360 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7085/tasks - 200 null application/json; charset=utf-8 23.545ms
+2024-04-30 00:22:29.235 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7085/tasks - null null
+2024-04-30 00:22:29.238 +01:00 [INF] CORS policy execution successful.
+2024-04-30 00:22:29.240 +01:00 [INF] Executing endpoint 'HTTP: GET /tasks'
+2024-04-30 00:22:29.241 +01:00 [INF] Executed endpoint 'HTTP: GET /tasks'
+2024-04-30 00:22:29.243 +01:00 [INF] HTTP GET /tasks responded 200 in 4.7624 ms
+2024-04-30 00:22:29.246 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7085/tasks - 200 null application/json; charset=utf-8 11.2565ms
+2024-04-30 00:28:11.323 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7085/tasks - null null
+2024-04-30 00:28:11.332 +01:00 [INF] CORS policy execution successful.
+2024-04-30 00:28:11.334 +01:00 [INF] Executing endpoint 'HTTP: GET /tasks'
+2024-04-30 00:28:11.336 +01:00 [INF] Executed endpoint 'HTTP: GET /tasks'
+2024-04-30 00:28:11.338 +01:00 [INF] HTTP GET /tasks responded 200 in 6.0812 ms
+2024-04-30 00:28:11.346 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7085/tasks - 200 null application/json; charset=utf-8 23.1208ms
+2024-04-30 00:30:13.959 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7085/tasks - null null
+2024-04-30 00:30:13.970 +01:00 [INF] CORS policy execution successful.
+2024-04-30 00:30:13.971 +01:00 [INF] Executing endpoint 'HTTP: GET /tasks'
+2024-04-30 00:30:13.974 +01:00 [INF] Executed endpoint 'HTTP: GET /tasks'
+2024-04-30 00:30:13.977 +01:00 [INF] HTTP GET /tasks responded 200 in 6.6821 ms
+2024-04-30 00:30:13.985 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7085/tasks - 200 null application/json; charset=utf-8 25.5098ms
+2024-04-30 00:30:58.046 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7085/tasks - null null
+2024-04-30 00:30:58.056 +01:00 [INF] CORS policy execution successful.
+2024-04-30 00:30:58.057 +01:00 [INF] Executing endpoint 'HTTP: GET /tasks'
+2024-04-30 00:30:58.059 +01:00 [INF] Executed endpoint 'HTTP: GET /tasks'
+2024-04-30 00:30:58.060 +01:00 [INF] HTTP GET /tasks responded 200 in 4.1333 ms
+2024-04-30 00:30:58.063 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7085/tasks - 200 null application/json; charset=utf-8 17.8351ms
+2024-04-30 00:38:21.608 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7085/tasks - null null
+2024-04-30 00:38:21.617 +01:00 [INF] CORS policy execution successful.
+2024-04-30 00:38:21.618 +01:00 [INF] Executing endpoint 'HTTP: GET /tasks'
+2024-04-30 00:38:21.619 +01:00 [INF] Executed endpoint 'HTTP: GET /tasks'
+2024-04-30 00:38:21.621 +01:00 [INF] HTTP GET /tasks responded 200 in 3.8051 ms
+2024-04-30 00:38:21.623 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7085/tasks - 200 null application/json; charset=utf-8 15.368ms
+2024-04-30 00:38:23.289 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7085/tasks - null null
+2024-04-30 00:38:23.293 +01:00 [INF] CORS policy execution successful.
+2024-04-30 00:38:23.294 +01:00 [INF] Executing endpoint 'HTTP: GET /tasks'
+2024-04-30 00:38:23.296 +01:00 [INF] Executed endpoint 'HTTP: GET /tasks'
+2024-04-30 00:38:23.297 +01:00 [INF] HTTP GET /tasks responded 200 in 4.1134 ms
+2024-04-30 00:38:23.299 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7085/tasks - 200 null application/json; charset=utf-8 9.8118ms
+2024-04-30 00:41:43.758 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7085/tasks - null null
+2024-04-30 00:41:43.765 +01:00 [INF] CORS policy execution successful.
+2024-04-30 00:41:43.766 +01:00 [INF] Executing endpoint 'HTTP: GET /tasks'
+2024-04-30 00:41:43.768 +01:00 [INF] Executed endpoint 'HTTP: GET /tasks'
+2024-04-30 00:41:43.769 +01:00 [INF] HTTP GET /tasks responded 200 in 4.4583 ms
+2024-04-30 00:41:43.777 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7085/tasks - 200 null application/json; charset=utf-8 18.9159ms
+2024-04-30 00:55:35.947 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7085/tasks - null null
+2024-04-30 00:55:35.956 +01:00 [INF] CORS policy execution successful.
+2024-04-30 00:55:35.957 +01:00 [INF] Executing endpoint 'HTTP: GET /tasks'
+2024-04-30 00:55:35.960 +01:00 [INF] Executed endpoint 'HTTP: GET /tasks'
+2024-04-30 00:55:35.963 +01:00 [INF] HTTP GET /tasks responded 200 in 6.6605 ms
+2024-04-30 00:55:35.971 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7085/tasks - 200 null application/json; charset=utf-8 24.2504ms
+2024-04-30 01:02:17.029 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7085/tasks - null null
+2024-04-30 01:02:17.038 +01:00 [INF] CORS policy execution successful.
+2024-04-30 01:02:17.039 +01:00 [INF] Executing endpoint 'HTTP: GET /tasks'
+2024-04-30 01:02:17.042 +01:00 [INF] Executed endpoint 'HTTP: GET /tasks'
+2024-04-30 01:02:17.044 +01:00 [INF] HTTP GET /tasks responded 200 in 6.1613 ms
+2024-04-30 01:02:17.056 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7085/tasks - 200 null application/json; charset=utf-8 27.4039ms
+2024-04-30 01:02:33.494 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7085/tasks - null null
+2024-04-30 01:02:33.497 +01:00 [INF] CORS policy execution successful.
+2024-04-30 01:02:33.498 +01:00 [INF] Executing endpoint 'HTTP: GET /tasks'
+2024-04-30 01:02:33.501 +01:00 [INF] Executed endpoint 'HTTP: GET /tasks'
+2024-04-30 01:02:33.502 +01:00 [INF] HTTP GET /tasks responded 200 in 4.8042 ms
+2024-04-30 01:02:33.505 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7085/tasks - 200 null application/json; charset=utf-8 11.5935ms
+2024-04-30 01:02:53.419 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7085/tasks - null null
+2024-04-30 01:02:53.423 +01:00 [INF] CORS policy execution successful.
+2024-04-30 01:02:53.424 +01:00 [INF] Executing endpoint 'HTTP: GET /tasks'
+2024-04-30 01:02:53.426 +01:00 [INF] Executed endpoint 'HTTP: GET /tasks'
+2024-04-30 01:02:53.428 +01:00 [INF] HTTP GET /tasks responded 200 in 4.8783 ms
+2024-04-30 01:02:53.430 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7085/tasks - 200 null application/json; charset=utf-8 11.3444ms
+2024-04-30 01:03:16.981 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7085/tasks - null null
+2024-04-30 01:03:16.990 +01:00 [INF] CORS policy execution successful.
+2024-04-30 01:03:16.991 +01:00 [INF] Executing endpoint 'HTTP: GET /tasks'
+2024-04-30 01:03:16.993 +01:00 [INF] Executed endpoint 'HTTP: GET /tasks'
+2024-04-30 01:03:16.995 +01:00 [INF] HTTP GET /tasks responded 200 in 4.9004 ms
+2024-04-30 01:03:16.997 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7085/tasks - 200 null application/json; charset=utf-8 15.998ms
+2024-04-30 01:14:29.731 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7085/tasks - null null
+2024-04-30 01:14:29.744 +01:00 [INF] CORS policy execution successful.
+2024-04-30 01:14:29.745 +01:00 [INF] Executing endpoint 'HTTP: GET /tasks'
+2024-04-30 01:14:29.748 +01:00 [INF] Executed endpoint 'HTTP: GET /tasks'
+2024-04-30 01:14:29.750 +01:00 [INF] HTTP GET /tasks responded 200 in 6.3391 ms
+2024-04-30 01:14:29.759 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7085/tasks - 200 null application/json; charset=utf-8 27.8189ms
+2024-04-30 10:36:44.591 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7085/tasks - null null
+2024-04-30 10:36:44.643 +01:00 [INF] CORS policy execution successful.
+2024-04-30 10:36:44.645 +01:00 [INF] Executing endpoint 'HTTP: GET /tasks'
+2024-04-30 10:36:44.652 +01:00 [INF] Executed endpoint 'HTTP: GET /tasks'
+2024-04-30 10:36:44.654 +01:00 [INF] HTTP GET /tasks responded 200 in 11.4659 ms
+2024-04-30 10:36:44.661 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7085/tasks - 200 null application/json; charset=utf-8 69.7584ms

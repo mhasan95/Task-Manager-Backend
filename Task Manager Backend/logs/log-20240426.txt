@@ -1,0 +1,41 @@
+2024-04-26 19:37:07.760 +01:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2024-04-26 19:37:08.379 +01:00 [INF] Now listening on: https://localhost:7085
+2024-04-26 19:37:08.385 +01:00 [INF] Now listening on: http://localhost:5203
+2024-04-26 19:37:08.388 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-04-26 19:37:08.389 +01:00 [INF] Hosting environment: Development
+2024-04-26 19:37:08.390 +01:00 [INF] Content root path: C:\Users\hasan\source\repos\Task Manager Backend\Task Manager Backend
+2024-04-26 19:37:11.094 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7085/swagger - null null
+2024-04-26 19:37:11.351 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7085/swagger - 301 0 null 262.0721ms
+2024-04-26 19:37:11.360 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7085/swagger/index.html - null null
+2024-04-26 19:37:11.457 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7085/swagger/index.html - 200 null text/html;charset=utf-8 96.8975ms
+2024-04-26 19:37:11.483 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7085/swagger/swagger-ui.css - null null
+2024-04-26 19:37:11.487 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7085/swagger/swagger-ui-bundle.js - null null
+2024-04-26 19:37:11.487 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7085/_framework/aspnetcore-browser-refresh.js - null null
+2024-04-26 19:37:11.487 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7085/swagger/swagger-ui-standalone-preset.js - null null
+2024-04-26 19:37:11.516 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7085/_framework/aspnetcore-browser-refresh.js - 200 13776 application/javascript; charset=utf-8 29.4573ms
+2024-04-26 19:37:11.539 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7085/_vs/browserLink - null null
+2024-04-26 19:37:11.560 +01:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2024-04-26 19:37:11.560 +01:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2024-04-26 19:37:11.564 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7085/swagger/swagger-ui-standalone-preset.js - 200 339486 text/javascript 77.3666ms
+2024-04-26 19:37:11.571 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7085/swagger/swagger-ui.css - 200 143943 text/css 87.8889ms
+2024-04-26 19:37:11.602 +01:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2024-04-26 19:37:11.605 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7085/swagger/swagger-ui-bundle.js - 200 1096145 text/javascript 118.3263ms
+2024-04-26 19:37:11.656 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7085/_vs/browserLink - 200 null text/javascript; charset=UTF-8 117.766ms
+2024-04-26 19:37:11.778 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7085/swagger/v1/swagger.json - null null
+2024-04-26 19:37:11.916 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7085/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 138.4072ms
+2024-04-26 19:37:34.374 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7085/tasks - null null
+2024-04-26 19:37:34.386 +01:00 [INF] Executing endpoint 'HTTP: GET /tasks'
+2024-04-26 19:37:34.959 +01:00 [INF] Executed endpoint 'HTTP: GET /tasks'
+2024-04-26 19:37:34.962 +01:00 [INF] HTTP GET /tasks responded 200 in 579.7054 ms
+2024-04-26 19:37:34.969 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7085/tasks - 200 null application/json; charset=utf-8 595.2887ms
+2024-04-26 19:37:35.025 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7085/favicon.ico - null null
+2024-04-26 19:37:35.028 +01:00 [INF] HTTP GET /favicon.ico responded 404 in 0.1470 ms
+2024-04-26 19:37:35.031 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7085/favicon.ico - 404 0 null 6.5223ms
+2024-04-26 19:37:35.036 +01:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7085/favicon.ico, Response status code: 404
+2024-04-26 19:37:38.611 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7085/_framework/aspnetcore-browser-refresh.js - null null
+2024-04-26 19:37:38.616 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7085/_framework/aspnetcore-browser-refresh.js - 200 13776 application/javascript; charset=utf-8 5.0411ms
+2024-04-26 19:37:44.197 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7085/tasks - null null
+2024-04-26 19:37:44.200 +01:00 [INF] Executing endpoint 'HTTP: GET /tasks'
+2024-04-26 19:37:44.223 +01:00 [INF] Executed endpoint 'HTTP: GET /tasks'
+2024-04-26 19:37:44.226 +01:00 [INF] HTTP GET /tasks responded 200 in 25.7250 ms
+2024-04-26 19:37:44.229 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7085/tasks - 200 null application/json; charset=utf-8 33.3892ms
